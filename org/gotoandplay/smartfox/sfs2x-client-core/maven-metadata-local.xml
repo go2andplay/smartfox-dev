@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
   <groupId>org.gotoandplay.smartfox</groupId>
-  <artifactId>sfs2x-core</artifactId>
+  <artifactId>sfs2x-client-core</artifactId>
   <versioning>
     <release>1.0</release>
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20150816081928</lastUpdated>
+    <lastUpdated>20150816082338</lastUpdated>
   </versioning>
 </metadata>

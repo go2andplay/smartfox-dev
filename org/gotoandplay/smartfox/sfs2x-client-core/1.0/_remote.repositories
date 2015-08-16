@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
-#Sun Aug 16 13:52:21 IST 2015
-SFS2X_API_Java-1.0.jar>=
-SFS2X_API_Java-1.0.pom>=
+#Sun Aug 16 13:53:38 IST 2015
+sfs2x-client-core-1.0.jar>=
+sfs2x-client-core-1.0.pom>=
